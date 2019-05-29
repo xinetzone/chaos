@@ -6,3 +6,7 @@
 
 - [Mean Teacher](https://github.com/CuriousAI/mean-teacher)
 - [Billion-scale-semi-supervised-learning](https://github.com/leaderj1001/Billion-scale-semi-supervised-learning)
+
+### Web
+
+- [Python Web 入坑指南](https://python-web-guide.readthedocs.io/zh/latest/index.html)
