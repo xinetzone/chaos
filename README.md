@@ -2,6 +2,10 @@
 
 汇集各种不成熟的奇思妙想！
 
+### 写作
+
+- [How to Write a Thesis in LaTeX](https://www.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_1):_Basic_Structure)
+
 ### 机器学习
 
 #### [周志华《机器学习》详细公式推导版发布，Datawhale 开源项目 pumpkin-book](https://datawhalechina.github.io/pumpkin-book/)
