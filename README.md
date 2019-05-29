@@ -2,6 +2,10 @@
 
 汇集各种不成熟的奇思妙想！
 
+### 机器学习
+
+#### [周志华《机器学习》详细公式推导版发布，Datawhale 开源项目 pumpkin-book](https://datawhalechina.github.io/pumpkin-book/)
+
 ### Semi-Supervised Learning
 
 - [Mean Teacher](https://github.com/CuriousAI/mean-teacher)
